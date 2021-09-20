@@ -27,6 +27,7 @@ import com.teste.mark1.banco.repositories.SetorRepository;
 public class FuncionarioController {
 
 	// meu primeiro comentario -- sidney
+	// meu primeiro comentario -- Andre
 	@Autowired
 	private FuncionarioRepository funcionarioRepositorio;
 	
