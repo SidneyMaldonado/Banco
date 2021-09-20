@@ -29,6 +29,7 @@ public class FuncionarioController {
 	// meu primeiro comentario -- sidney
 	// meu primeiro comentario -- Andre
 	// meu primeiro comentario -- Matheus
+	// meu primeiro comentario -- Kevin
 	@Autowired
 	private FuncionarioRepository funcionarioRepositorio;
 	
